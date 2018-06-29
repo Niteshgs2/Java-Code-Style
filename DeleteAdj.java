@@ -2,7 +2,7 @@
  * Created by Nitesh on 3/23/2018.
  */
 import java.util.*;
-public class deleteAdj {
+public class DeleteAdj {
 
     public static void main(String[] args) {
         String str1 = "aacVBcccdD";
